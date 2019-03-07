@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <!--<binding name="BasicHttpBinding_IService1" />-->
+              <binding name="BasicHttpBinding_IService1" closeTimeout="00:10:00"
+        receiveTimeout="00:10:00" sendTimeout="00:10:00" maxReceivedMessageSize="2147483647" />
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://172.31.5.42:9999/CO_EXCEL_SERVICE.Service1.svc"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService1"
+                contract="CO_EXCEL_Service.IService1" name="BasicHttpBinding_IService1" />
+        </client>
+      
+    </system.serviceModel>
+</configuration>

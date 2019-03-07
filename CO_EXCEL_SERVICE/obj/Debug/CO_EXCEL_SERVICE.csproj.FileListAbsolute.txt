@@ -1,0 +1,6 @@
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_EXCEL_SERVICE\bin\Debug\CO_EXCEL_SERVICE.dll.config
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_EXCEL_SERVICE\bin\Debug\CO_EXCEL_SERVICE.dll
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_EXCEL_SERVICE\bin\Debug\CO_EXCEL_SERVICE.pdb
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_EXCEL_SERVICE\obj\Debug\CO_EXCEL_SERVICE.dll
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_EXCEL_SERVICE\obj\Debug\CO_EXCEL_SERVICE.pdb
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_EXCEL_SERVICE\obj\Debug\CO_EXCEL_SERVICE.csprojResolveAssemblyReference.cache

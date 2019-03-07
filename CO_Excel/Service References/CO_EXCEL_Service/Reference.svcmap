@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="29a8a6ab-4458-4868-8326-3b4cf5369df5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://huliming:9988/CO_EXCEL_SERVICE.Service1.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CO_EXCEL_SERVICE.xsd" MetadataType="Schema" ID="85a1f6cc-d033-47ef-b981-c869f4555ddb" SourceId="1" SourceUrl="http://huliming:9988/CO_EXCEL_SERVICE.Service1.svc?xsd=xsd2" />
+    <MetadataFile FileName="CO_EXCEL_SERVICE1.xsd" MetadataType="Schema" ID="3b804f70-3750-4600-9b4a-2f3ad063ce8d" SourceId="1" SourceUrl="http://huliming:9988/CO_EXCEL_SERVICE.Service1.svc?xsd=xsd0" />
+    <MetadataFile FileName="CO_EXCEL_SERVICE2.xsd" MetadataType="Schema" ID="02ac6970-7fca-46c8-a142-868e66b4d22f" SourceId="1" SourceUrl="http://huliming:9988/CO_EXCEL_SERVICE.Service1.svc?xsd=xsd1" />
+    <MetadataFile FileName="CO_EXCEL_SERVICE3.xsd" MetadataType="Schema" ID="987214d2-fe8f-40cf-a27a-a30997826016" SourceId="1" SourceUrl="http://huliming:9988/CO_EXCEL_SERVICE.Service1.svc?xsd=xsd4" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="86b79a98-c3b0-476c-a3a7-6f98c704c063" SourceId="1" SourceUrl="http://huliming:9988/CO_EXCEL_SERVICE.Service1.svc?wsdl" />
+    <MetadataFile FileName="CO_EXCEL_SERVICE4.xsd" MetadataType="Schema" ID="f3e9d35e-d9ee-483d-9702-d60de1eac722" SourceId="1" SourceUrl="http://huliming:9988/CO_EXCEL_SERVICE.Service1.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

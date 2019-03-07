@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="D:\WebSite\CO_EXCEL\">
+    <file relUrl="bin/CO_EXCEL_SERVICE.pdb" publishTime="03/05/2019 17:45:11" />
+    <file relUrl="CO_EXCEL_SERVICE.Service1.svc" publishTime="03/05/2019 17:45:15" />
+    <file relUrl="Web.config" publishTime="03/05/2019 15:47:57" />
+    <file relUrl="bin/CO_EXCEL_SERVICE.dll.config" publishTime="03/05/2019 15:47:57" />
+    <file relUrl="bin/CO_EXCEL_SERVICE.dll" publishTime="03/05/2019 17:45:11" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,14 @@
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\obj\Debug\CO_Excel.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\obj\Debug\CO_Excel.TaskFrm.resources
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\obj\Debug\CO_Excel.协同数据录入.resources
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\obj\Debug\CO_Excel.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\bin\Debug\CO_Excel.dll.config
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\bin\Debug\CO_Excel.dll
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\bin\Debug\CO_Excel.pdb
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\bin\Debug\CO_Excel.dll.manifest
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\bin\Debug\CO_Excel.vsto
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\obj\Debug\CO_Excel.dll
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\obj\Debug\CO_Excel.pdb
+d:\用户目录\documents\visual studio 2013\Projects\CO_Excel\CO_Excel\obj\Debug\CO_Excel.csprojResolveAssemblyReference.cache
